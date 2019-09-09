@@ -1,0 +1,118 @@
+{
+    "title": "Software Engineer",
+    "summary": "I'm passionate about Computer Software development, looking always for different and most efficient solutions to daily problems of clients. Always growing as a person and as a co worker, looking always to give my best for the company I'm working with.",
+    "studies": [
+      {
+        "institute": "Centro Universitário de João Pessoa - UNIPÊ",
+        "logo": "https://unipe.edu.br/img/logo_unipe_cruzeiro_02.svg",
+        "url": "https://unipe.edu.br/",
+        "title": "Tecnólogo em Sistemas para Internet",
+        "durationInYears": "2.5",
+        "graduationYear": 2012
+      },
+      {
+        "institute": "Estácio de Sá",
+        "logo": "",
+        "url": "http://portal.estacio.br/",
+        "title": "Pós-Graduação em Engenharia de Software",
+        "durationInYears": "2.0",
+        "graduationYear": 2016
+      }
+    ],
+    "certifications": [
+      {
+        "logo": "https://www.bstqb.org.br/uploads/bstqb/bstqb-250.png",
+        "url": "https://www.bstqb.org.br/sobre-ctfl",
+        "title": "CTFL - Certified Tester Foundation Level",
+        "issuer": "ISTQB® International Software Testing Qualifications Board",
+        "issueDate": "2012-09-14",
+        "verificationLink": "https://www.bstqb.org.br/verificador-certificado?field_certificado_numero_value=12-CTFL-02065-BR"
+      }
+    ],
+    "experiences": [
+      {
+        "companyName": "Exército Brasileiro",
+        "logo": "https://gov.br",
+        "url": "http://www.eb.mil.br/",
+        "roles": [
+          {
+            "title": "Software developer",
+            "description": "Development of Application (bots, add-ons) that help simplify day-to-day work for 5ª Região Militar. To achieve this purpose, Serverless framework is being used taking advantage of AWS stack technologies.",
+            "startDate": "2018-03-01",
+            "currentJob": true,
+            "location": "Curitiba, Brasil"
+          }
+        ]
+      },
+      {
+        "companyName": "Indra Company",
+        "logo": "",
+        "url": "",
+        "roles": [
+          {
+            "title": "Configuration Management Analyst",
+            "description": "Perform duties related to change, release, and build management. Identify errors in the build and release process; recommend improvements.Create and maintain documentation for tools used to support configuration management.",
+            "startDate": "2017-06-01",
+            "endDate": "2018-03-01",
+            "location": "João Pessoa, Brasil"
+          },
+          {
+            "title": "Test Analyst",
+            "description": "QA Quality Assurance",
+            "startDate": "2015-12-01",
+            "endDate": "2016-03-01",
+            "location": "João Pessoa, Brasil"
+          }
+        ]
+      },
+      {
+        "companyName": "Planeta Y",
+        "logo": "https://planetay.com.br/wp-content/themes/py/dist/assets/images/logo-py.png",
+        "url": "https://planetay.com.br/",
+        "roles": [
+          {
+            "title": "Web Developer - Remote",
+            "description": "APIs social media (Facebook, Twitter, Instagram, WhatsApp, Reclame aqui, LinkedIn)",
+            "startDate": "2016-02-01",
+            "endDate": "2016-09-01",
+            "location": "Belo Horizonte, Brasil"
+          }
+        ]
+      },
+      {
+        "companyName": "Technical and Scientific Collaboration Program between UFCG and Sony Mobile Communications",
+        "logo": "https://portal.ufcg.edu.br/images/headers/cabecalho_ufcg.jpg",
+        "url": "https://portal.ufcg.edu.br/",
+        "roles": [
+          {
+            "title": "Junior/Pleno Mobile Software Tester",
+            "description": "Embedded Junior/Pleno Mobile Software Tester with Android platform. Project for Sony Mobile in partnership with the Federal University of Campina Grande, Paraíba Technological Park Foundation, Embedded Lab and Venturus Center for Technological Innovation. The main activities: testing and quality assurance of software embedded in mobile devices with Android platform.",
+            "startDate": "2014-03-01",
+            "endDate": "2015-10-01",
+            "location": "Campina Grande, Brasil"
+          },
+          {
+            "title": "Junior Mobile Software Developer Junior/Pleno Mobile Software Tester",
+            "description": "Embedded Mobile Software Developer with Android platform. Projects: - App to export playlists of music services (Deezer and Rdio) for Sony Music Unlimited. I worked for integrate Facebook API to the app. - SRT player (Disambiguation of subtitles to videos).",
+            "startDate": "2013-08-01",
+            "endDate": "2014-03-01",
+            "location": "Campina Grande, Brasil"
+          }
+        ]
+      },
+      {
+        "companyName": "Indra Company",
+        "logo": "https://www.indracompany.com/sites/all/themes/custom/indracompany_bs/logo.png",
+        "url": "https://www.indracompany.com/en/",
+        "roles": [
+          {
+            "title": "Software Tester",
+            "description": "In charge of testing web applications using the framework Cucumber used for a Java-EE",
+            "startDate": "2012-11-01",
+            "endDate": "2013-03-01",
+            "location": "João Pessoa, Brasil"
+          }
+        ]
+      }
+    ]
+  }
